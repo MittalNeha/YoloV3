@@ -316,3 +316,44 @@
 ./data/customdata/images/SImage_71.jpg
 ./data/customdata/images/SImage_83.jpg
 ./data/customdata/images/SImage_95.jpg
+./data/customdata/images/safety-vest-reflective-shirt-beware-260nw-1470809870 (2).jpg
+./data/customdata/images/safety-vest-reflective-shirt-beware-260nw-1662931264 (2).jpg
+./data/customdata/images/safety-vest-reflective-shirt-beware-260nw-1666787482.jpg
+./data/customdata/images/serious-professional-civil-engineer-pencil-260nw-1798282021.jpg
+./data/customdata/images/structural-engineer-architect-dressed-orange-260nw-1190194807.jpg
+./data/customdata/images/structural-engineer-architect-dressed-orange-260nw-1202210110 (1).jpg
+./data/customdata/images/supervisors-standing-construction-site-against-260nw-288541739.jpg
+./data/customdata/images/supervisors-using-laptop-construction-site-260nw-599485079.jpg
+./data/customdata/images/team-construction-workers-wearing-protective-260nw-583817641.jpg
+./data/customdata/images/three-yellow-vests-on-white-260nw-1258210216.jpg
+./data/customdata/images/boot_021.jpg
+./data/customdata/images/boot_022.jpg
+./data/customdata/images/boot_023.jpg
+./data/customdata/images/boot_024.jpg
+./data/customdata/images/boot_025.jpg
+./data/customdata/images/boot_026.jpg
+./data/customdata/images/boot_027.jpg
+./data/customdata/images/hat_023.jpg
+./data/customdata/images/hat_024.jpg
+./data/customdata/images/hat_025.jpg
+./data/customdata/images/hat_026.jpg
+./data/customdata/images/hat_027.jpg
+./data/customdata/images/mask_025.jpg
+./data/customdata/images/mask_026.jpg
+./data/customdata/images/mask_027.jpg
+./data/customdata/images/mask_028.jpg
+./data/customdata/images/mask_029.jpg
+./data/customdata/images/vest_007.jpg
+./data/customdata/images/vest_022.jpg
+./data/customdata/images/vest_030.jpg
+./data/customdata/images/vest_031.jpg
+./data/customdata/images/vest_032.jpg
+./data/customdata/images/vest_033.jpg
+./data/customdata/images/vest_034.jpg
+./data/customdata/images/vest_035.jpg
+./data/customdata/images/vest_036.jpg
+./data/customdata/images/vest_037.jpg
+./data/customdata/images/vest_038.jpg
+./data/customdata/images/vest_039.jpg
+./data/customdata/images/vest_040.jpg
+./data/customdata/images/vest_041.jpg
