@@ -3257,12 +3257,10 @@
 ./data/customdata/images/hat_002.jpg
 ./data/customdata/images/hat_003_.jpg
 ./data/customdata/images/hat_004.jpg
-./data/customdata/images/hat_005.jpg
 ./data/customdata/images/hat_006.jpg
 ./data/customdata/images/hat_007.jpg
 ./data/customdata/images/hat_008.jpg
 ./data/customdata/images/hat_009.jpg
-./data/customdata/images/hat_010.jpg
 ./data/customdata/images/hat_011.jpg
 ./data/customdata/images/hat_012.jpg
 ./data/customdata/images/hat_013.jpg
@@ -3272,7 +3270,6 @@
 ./data/customdata/images/hat_017.jpg
 ./data/customdata/images/hat_018.jpg
 ./data/customdata/images/hat_019.jpg
-./data/customdata/images/hat_020.jpg
 ./data/customdata/images/hat_020kkk.jpg
 ./data/customdata/images/hat_021.jpg
 ./data/customdata/images/hat_022.jpg

@@ -333,7 +333,6 @@
 ./data/customdata/images/boot_025.jpg
 ./data/customdata/images/boot_026.jpg
 ./data/customdata/images/boot_027.jpg
-./data/customdata/images/hat_023.jpg
 ./data/customdata/images/hat_024.jpg
 ./data/customdata/images/hat_025.jpg
 ./data/customdata/images/hat_026.jpg
@@ -355,5 +354,4 @@
 ./data/customdata/images/vest_037.jpg
 ./data/customdata/images/vest_038.jpg
 ./data/customdata/images/vest_039.jpg
-./data/customdata/images/vest_040.jpg
 ./data/customdata/images/vest_041.jpg
